@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77232337-e4f0-462b-9619-fa941a9911d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Component/Login/Login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Component/Login/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/redux/hooks.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/redux/hooks.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/redux/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/redux/store.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +18,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -43,7 +48,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../works/tyteda-mobile-backend/Settings/routes.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../works/tyteda-mobile-app/redux/hooks.ts" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Users\Nik\dev\takeoff-staff\frontend\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -64,7 +70,7 @@
       <updated>1659641269960</updated>
       <workItem from="1659641271186" duration="7779000" />
       <workItem from="1659785704163" duration="12334000" />
-      <workItem from="1659876904574" duration="1704000" />
+      <workItem from="1659876904574" duration="2759000" />
     </task>
     <servers />
   </component>
